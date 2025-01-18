@@ -1,3 +1,7 @@
+/* probelem statement ; We have gievn the array and we need to find the max sum of
+sub array out of all the sub array*/
+
+// This approch is brute force approch
 public class maxisumsumsubarrayprefixsum {
     public static void main(String[] args) {
 		int [] arr = {1,2,3};
