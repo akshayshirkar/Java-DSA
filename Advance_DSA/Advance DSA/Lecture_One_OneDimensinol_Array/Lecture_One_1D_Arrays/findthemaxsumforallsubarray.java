@@ -19,6 +19,6 @@ public class findthemaxsumforallsubarray {
 				}
 			}
 		}
-		System.out.println("current_Sum is "+max_sum);
+		System.out.println("current_Sum "+max_sum);
 	}
 }
